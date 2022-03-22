@@ -1,0 +1,2 @@
+INSERT INTO person (name,social_number,date_of_birth,created_date,updated_date,created_by,is_deleted) 
+VALUES ('ainul','00001',{ts '2012-09-17 18:47:52.69'},{ts '2012-09-17 18:47:52.69'},{ts '2012-09-17 18:47:52.69'},'SPRING_BOOT_TEST',false);
