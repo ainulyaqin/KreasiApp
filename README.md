@@ -1,5 +1,6 @@
 # KreasiApp
-Spring Boot Project
+Spring Boot Project, 
+Simple Apps Spring boot, H2, Junit, Swagger, Rest (GET, POST, DELETE, UPDATE)
 
 
 ## How to run
