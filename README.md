@@ -2,7 +2,7 @@
 Spring Boot Project, 
 Simple Apps Spring boot, H2, Junit, Swagger, Rest (GET, POST, DELETE, UPDATE)
 
-
+d
 ## How to run
 
 1.  `$ git clone https://github.com/ainulyaqin/KreasiApp.git.`<br /> 
